@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Reports
+allure-results/
+allure-report/
+allure-report.zip
+
+# Logs and temps
+logs/
+*.log
+npm-debug.log*
+.DS_Store
+
+# Evidence
+errorShots/
+screenshots/
+
+# Settings
+.vscode/
+.idea/

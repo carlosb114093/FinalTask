@@ -1,0 +1,17 @@
+{
+  "UC-1": {
+    "username": "anyUser",
+    "password": "anyPassword",
+    "expectedResult": "Epic sadface: Username is required"
+  },
+  "UC-2": {
+    "username": "standard_user",
+    "password": "anyPassword",
+    "expectedResult": "Epic sadface: Password is required"
+  },
+  "UC-3": {
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "expectedResult": "Swag Labs"
+  }
+}
