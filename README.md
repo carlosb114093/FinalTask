@@ -11,7 +11,7 @@ UC-2: Error handling during authentication.
 
 UC-3: Successful login and navigation to the dashboard.
 
-The project is designed to be apply best practices for test automation.
+The project is designed to apply best practices for test automation.
 
 Tech Stack & Main Libraries
 
